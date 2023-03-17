@@ -1,0 +1,11 @@
+docs/
+packages/
+public/
+coverage/
+src/
+dist/
+tsconfig*.json
+.*
+index.html
+*.config.*
+*.yaml
